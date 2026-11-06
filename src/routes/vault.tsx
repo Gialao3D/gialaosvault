@@ -5,7 +5,7 @@ import { VaultBackdrop } from '@/components/vault/vault-backdrop'
 import { EntryCard } from '@/components/vault/entry-card'
 
 export const Route = createFileRoute('/vault')({
-  head: () => ({ meta: [{ title: "The Vault · Gialao3D's Vault" }] }),
+  head: () => ({ meta: [{ title: "Access Granted · Gialao3D's Vault" }] }),
   loader: async () => {
     const viewer = await getViewer()
     if (!viewer) throw redirect({ to: '/' })
