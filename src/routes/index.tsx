@@ -73,7 +73,7 @@ function Landing() {
           className="vault-rise mt-6 max-w-md text-base text-white/80 sm:text-lg"
           style={{ animationDelay: '160ms' }}
         >
-          Exclusive Renders and Variants Not Seen Anywhere Else
+          My Vault contains exclusive loot not found anywhere else.
         </p>
 
         {message && (
