@@ -7,7 +7,7 @@ const PATREON_PAGE_URL = 'https://www.patreon.com/cw/Gialao3D'
 
 const ERRORS: Record<string, string> = {
   not_member:
-    "We couldn't find an active Gialao3D membership on that Patreon account. Join below, then log in again.",
+    "In order to access my vault, you must become a patreon member. Join below and then come back.",
   denied: 'Patreon login was cancelled.',
   expired: 'That login link expired. Please try again.',
   patreon: "Patreon didn't respond as expected. Please try again in a moment.",
