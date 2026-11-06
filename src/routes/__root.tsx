@@ -7,7 +7,7 @@ import { NotFoundPage } from '@/components/error-pages'
 import '../styles.css'
 
 const siteName = "Gialao3D's Vault"
-const siteDescription = 'The members-only vault for Gialao3D patrons.'
+const siteDescription = 'The members-only vault for my content.'
 
 export const Route = createRootRoute({
   head: () => ({
