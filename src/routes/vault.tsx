@@ -56,8 +56,8 @@ function VaultPage() {
         </p>
         <h1 className="vault-title font-display mt-3 text-4xl sm:text-6xl">The Vault</h1>
         <p className="mt-4 max-w-xl text-white/75">
-          Everything here is just for members. Tap the eye to reveal a password or code, and the copy
-          button to grab it.
+          All the passwords for my patreon zip files are here. The passwords are case sensitive. Write them as they are displayed.
+          Make sure your platform of choice supports the handling of 7ZIP files. Reach out to me if you have any issues.
         </p>
       </section>
 
